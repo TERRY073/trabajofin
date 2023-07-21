@@ -1,3 +1,7 @@
-# trabajofin
+
 Username: Terry
 Password: 1234
+
+"Agregando información de autenticación al archivo auth.txt
+Username: usuario123
+Password: 12345password"
